@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Aunswift
 - 👀 I’m interested in coding and hacking actually.
 - 🌱 I’m currently learning JAVA, Python and some cyber-security stuffs.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me 
+- 📫 You can reach me by using ahmettalhaymn@gmail.com
 
 <!---
 Aunswift/Aunswift is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
